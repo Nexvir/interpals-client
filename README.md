@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # interpals-client
 
 Async Python client for the **interpals.net** private-messaging API.
@@ -189,3 +190,6 @@ Everything bot-related belongs in `interpals-bot` (separate package):
 ## License
 
 MIT
+=======
+# interpals-client
+>>>>>>> 72e4bfcfe64b903b58e8b7f97cf4781568719bd3
